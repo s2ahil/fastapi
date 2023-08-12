@@ -2,3 +2,10 @@ fastapi
 gunicorn
 uvicorn
 python-version
+numpy
+sklearn
+transformers
+pandas
+matplotlib
+torch
+torch.nn
