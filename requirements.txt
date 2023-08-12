@@ -3,7 +3,7 @@ gunicorn
 uvicorn
 python-version
 numpy
-sklearn
+scikit-learn
 transformers
 pandas
 matplotlib
